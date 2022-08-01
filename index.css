@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}.main{
+    margin-top: 150px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+}
+.main1{
+    background-color: whitesmoke;
+    width: 30%;
+    margin: auto;
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+ }
+       
+ .Makebold{
+    font-weight: bold       
+}
+  
+.container{
+    border: 5px solid black;
+    margin: 5px;
+}
